@@ -1,7 +1,7 @@
 matplotlib
 mock
 opencv-python
-pandas
+
 pytest
 sphinx
 torch==1.9.0
